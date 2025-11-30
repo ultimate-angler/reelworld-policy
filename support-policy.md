@@ -9,22 +9,15 @@ You can reach us at:
 Email: reelfloridianfishing@gmail.com 
 
 We typically respond within 24–48 hours.
-
 How to Get Help
 
 We can assist you with:
-
-Technical issues
-
-Bug reports
-
-Account or login problems
-
-Feature requests
-
-General questions about the App
-
-Feedback & Improvements
+- Technical issues
+- Bug reports
+- Account or login problems
+- Feature requests
+- General questions about the App
+- Feedback & Improvements
 
 We welcome all suggestions that help improve the App.
 Please feel free to contact us anytime with ideas or feedback.
